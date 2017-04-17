@@ -1,3 +1,4 @@
+[![Build Status](http://jenkins-server.com:9090/buildStatus/icon?job=Java-maven)](http://jenkins-server.com:9090/job/Java-maven/)
 ---
 tags: [maven]
 projects: []
